@@ -1,0 +1,108 @@
+.women{
+	width:1000px;
+	font-family:sans-serif;
+	font-style:normal;
+	font-weight:normal;
+	font-size:20px;
+	background-color:grey;
+	margin-top:5px;
+	margin-right:50px;
+	background-color:pink;
+	padding-left:40px;
+	margin:40px 80px;
+	border:solid black;
+	text-align:left;
+	border-image:initial;
+}
+.modern{
+	width:1000px;
+	font-family:sans-serif;
+	font-style:normal;
+	font-weight:normal;
+	font-size:20px;
+	background-color:pink;
+	border-image-source:;
+	margin-top:5px;
+	margin-right:50px;
+	background-color:pink;
+	padding:50px;
+	margin:40px 80px;
+	border:solid black;
+	text-align:left;
+}
+
+.homegoing{
+	padding:20px;
+	background-color:grey;
+}
+.roles{
+	width:1000px;
+	font-family:sans-serif;
+	font-style:normal;
+	font-weight:normal;
+	font-size:20px;
+	background-color:grey;
+	margin-top:5px;
+	margin-right:50px;
+	background-color:pink;
+	padding-left:40px;
+	margin:40px 80px;
+	border:solid black;
+	text-align:left;
+}
+
+.summary{
+	width:1000px;
+	font-family:sans-serif;
+	font-style:normal;
+	font-weight:normal;
+	font-size:20px;
+	background-color:grey;
+	margin-top:5px;
+	margin-right:50px;
+	background-color:pink;
+	padding-left:40px;
+	margin:40px 80px;
+	border:solid black;
+	text-align:left;
+
+}
+.h4 {
+	text-align:center;
+}
+.img{
+	width:300px;
+	border:5px solid black;
+	margin:30px 70px;
+}
+.police{
+	width:1000px;
+	font-family:sans-serif;
+	font-style:normal;
+	font-weight:normal;
+	font-size:20px;
+	background-color:grey;
+	margin-top:5px;
+	margin-right:50px;
+	background-color:pink;
+	padding-left:40px;
+	margin:40px 80px;
+	border:solid black;
+	text-align:left;
+
+}
+.regime{
+	width:1000px;
+	font-family:sans-serif;
+	font-style:normal;
+	font-weight:normal;
+	font-size:20px;
+	background-color:grey;
+	margin-top:5px;
+	margin-right:50px;
+	background-color:pink;
+	padding-left:40px;
+	margin:40px 80px;
+	border:solid black;
+	text-align:left;
+}
